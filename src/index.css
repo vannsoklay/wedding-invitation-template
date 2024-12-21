@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'KhAng'; /* Name of the font */
+  src: url('./assets/fonts/KhAngMoulToathmor.ttf') format('truetype');
+}
+
+body {
+  font-family: 'KhAng';
+}
